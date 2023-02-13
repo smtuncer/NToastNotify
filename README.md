@@ -2,6 +2,7 @@
 NToastNotification with Asp.Net Core 5.0
 
 I used .Net 5.0.
+
 NToastNotify 7.0
 
 
